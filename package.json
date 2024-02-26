@@ -6,7 +6,7 @@
   "engines": {
     "vscode": "^1.86.0"
   },
-  "icon": "https://ibb.co/3h3vJd0",
+  "icon": "./assets/logo.webp",
   "categories": [
     "Themes"
   ],
