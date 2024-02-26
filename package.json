@@ -1,0 +1,26 @@
+{
+  "name": "dark-studio-janelaxagh",
+  "displayName": "Dark Studio Janelaxagh",
+  "description": "Janelaxagh",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark Studio Janelaxagh",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark Studio Janelaxagh-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Janelaxagh/Dark-Studio-Janelaxagh"
+  },
+  "publisher": "Janelaxagh"
+}
