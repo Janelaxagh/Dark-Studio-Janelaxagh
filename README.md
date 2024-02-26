@@ -48,10 +48,6 @@ You can further customize the theme according to your preferences:
 
 For any issues or suggestions, please open an issue on the GitHub repository.
 
-## License
-
-This theme is released under the MIT License.
-
 ---
 
 "Dark Studio Janelaxagh" is not affiliated with Visual Studio Code or Microsoft Corporation. Visual Studio Code is a registered trademark of Microsoft Corporation.
